@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetpanchal1222&label=Profile%20views&color=0e75b6&style=flat" alt="meetpanchal12222" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetpanchal1222" alt="meetpanchal1222" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetpanchal12222" alt="meetpanchal1222" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
